@@ -1,6 +1,6 @@
 # 🛒 E-Commerce Data Analysis & Dashboard
 
-![Dashboard Preview](C:\Users\shrey\Downloads\interview da\Ecommerce Dashboard\preview.png)
+![Dashboard Preview](preview.png)
 
 ---
 
